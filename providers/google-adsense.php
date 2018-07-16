@@ -20,6 +20,13 @@ google_ad_width = %width%;
 google_ad_height = %height%;
 //-->
 </script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7297276327055213",
+          enable_page_level_ads: true
+     });
+</script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>';
 
 		// Default Ad Tag Ids (you will pass this in your shortcode or template tag)
